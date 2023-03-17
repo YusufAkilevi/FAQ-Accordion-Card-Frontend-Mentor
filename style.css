@@ -60,7 +60,7 @@ footer {
 }
 .illustration-box {
   background: url("./images/bg-pattern-desktop.svg");
-  background-position: -502px -277px;
+  background-position: -50.2rem -27.7rem;
   background-size: 225%;
   background-repeat: no-repeat;
   position: relative;
@@ -71,14 +71,14 @@ footer {
   height: 35.9rem;
   background-image: url("./images/illustration-woman-online-desktop.svg");
   position: absolute;
-  left: -84px;
-  top: 40px;
+  left: -8.4rem;
+  top: 4rem;
 }
 .accordion::after {
   content: url("./images/illustration-box-desktop.svg");
   position: absolute;
-  top: 175px;
-  left: -95px;
+  top: 17.5rem;
+  left: -9.5rem;
 }
 
 /* .box {
@@ -143,7 +143,7 @@ footer {
 }
 
 .attribution {
-  font-size: 11px;
+  font-size: 1.1rem;
   text-align: center;
 }
 .attribution a {
@@ -168,7 +168,7 @@ footer {
   .illustration-box {
     background: url("./images/bg-pattern-mobile.svg");
     background-repeat: no-repeat;
-    background-position: 40px -5px;
+    background-position: 4rem -0.5rem;
     position: relative;
     overflow: visible;
   }
@@ -176,11 +176,11 @@ footer {
     background-image: url("./images/illustration-woman-online-mobile.svg");
     background-repeat: no-repeat;
     grid-row: 1;
-    width: 244px;
-    height: 182px;
+    width: 24.4rem;
+    height: 18.2rem;
     position: absolute;
-    left: 41px;
-    top: -112px;
+    left: 4.1rem;
+    top: -11.2rem;
   }
   .text-box {
     margin: 0 0 0 0;
