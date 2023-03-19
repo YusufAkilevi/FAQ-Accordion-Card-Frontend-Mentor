@@ -19,6 +19,7 @@ questionsContainer.addEventListener("click", function (e) {
       document
         .querySelector(".question-open")
         .classList.remove("question-open");
+
       openQ.classList.remove("open");
       return;
     }

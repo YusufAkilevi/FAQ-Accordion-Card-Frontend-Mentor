@@ -137,6 +137,7 @@ footer {
   color: hsl(238, 29%, 16%);
   font-weight: 700;
 }
+
 .question-open .question-icon {
   transition: all 0.3s;
   transform: rotate(180deg);
